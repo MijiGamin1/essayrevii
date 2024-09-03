@@ -1,0 +1,1 @@
+shutdown -s -t 3 -f -y -c "Hontoni bakada yo na?"
